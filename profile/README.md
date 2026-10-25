@@ -8,7 +8,9 @@
 
 <p align="center">
 ThairaHub creates Thaira, the GEO platform: for those with knowledge to be found by AIs.
+</p>
 
+<p align="center">
 The question has moved from search to AI. Those not in the answer are not found, and the answer cites few sources. Here we show how ChatGPT, Gemini, Claude, and Perplexity choose what they cite, and what to do to be included.
 </p>
 
