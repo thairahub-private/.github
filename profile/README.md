@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  ThairaHub is a SaaS Marketplace built to provide the best ready-to-market SaaS templates out there. Build and Own your Proprietary Software and use it for your services.
+ThairaHub creates Thaira, the GEO platform: for those with knowledge to be found by AIs.
+
+The question has moved from search to AI. Those not in the answer are not found, and the answer cites few sources. Here we show how ChatGPT, Gemini, Claude, and Perplexity choose what they cite, and what to do to be included.
 </p>
 
 
